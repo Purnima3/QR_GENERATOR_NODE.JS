@@ -3,7 +3,7 @@ A simple QR Code Generator CLI tool built using Node.js. This tool allows users 
 
 # Features
 - Generates QR codes from user-provided URLs.
-  <img width="395" alt="image" src="https://github.com/Purnima3/QR_GENERATOR_NODE.JS/assets/96184253/56e968a3-5757-4d4e-8eb2-9eb22bccb295">
+  <img width="300" alt="image" src="https://github.com/Purnima3/QR_GENERATOR_NODE.JS/assets/96184253/56e968a3-5757-4d4e-8eb2-9eb22bccb295">
 
 - Saves generated QR codes as PNG images.
   <img width="395" alt="image" src="https://github.com/Purnima3/QR_GENERATOR_NODE.JS/assets/96184253/e017ab5c-30ab-4638-a395-154b31c689f3">
