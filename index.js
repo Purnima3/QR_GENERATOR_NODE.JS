@@ -1,20 +1,8 @@
 import inquirer from "inquirer";
 import qr from "qr-image";
 import fs from "fs";
-import http from "http";
 
-//Making server
 
-const fileContent = fs.readFileSync('index.html');
-
-const server = http.createServer((req,res)=>{
-    res.writeHead(200,{'Content-type':'text/html'});
-    res.end(fileContent)
-})
-
-server.listen(80, '127.0.0.1' ,()=>{
-    console.log("Listening")
-})
 inquirer
   .prompt([
     {
